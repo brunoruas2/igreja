@@ -1,6 +1,7 @@
 ```chords
 [Intro] 
-D
+D Am7
+C9 G9
 
 [Primeira Parte]
                    Am7
@@ -79,7 +80,7 @@ C9                   G
 
 [Solo 3] 
 Am7  F  C9  G 
-Am7  F  C9  G 
+Am7  F  C9  G nao tem
 
 D9              Am7
    Maravilhado,     extasiado
@@ -92,7 +93,7 @@ Am7
 C9                  G 
    Misteriosa água viva 
 
-[Solo 4]  
+[Solo 4]  nao tem
 Am7  F  C9  G 
 Am7  F  C9  G 
 

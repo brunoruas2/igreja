@@ -2,10 +2,11 @@
 ESTROFE
 E E A E
 E E A E
-E C#m F B
+E E C#m F# B
 
 REFRAO
 E E A E
 E D# C# B
-G#m D#m A A B E
+G#m C#m 
+??? A A B E ???
 ```

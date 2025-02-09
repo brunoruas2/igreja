@@ -5,9 +5,8 @@ A D
 D D
 A D
 
-
 REFRAO
 G G
-D B
+D (passagem) B 
 A D
 ```
