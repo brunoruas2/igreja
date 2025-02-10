@@ -1,18 +1,6 @@
 ```mermaid  
 mindmap
-  root((mindmap))
-    Origins
-      Long history
-      Popularisation
-        British popular
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+  root((title))
+    branch
+      Subranch
 ```
