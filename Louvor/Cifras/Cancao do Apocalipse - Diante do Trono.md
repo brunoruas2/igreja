@@ -12,7 +12,6 @@ D9                 Am7
    Um novo cântico     ao que se assenta
 C9                   G9
    Sobre o trono do céu
-
 D9                    Am7
    Digno é o Cordeiro     que foi morto
 C9                  G

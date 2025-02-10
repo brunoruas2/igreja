@@ -3,7 +3,7 @@
 G  D2  G  D2
 
 [Primeira Parte] 
-                     G
+     D2                G
 Por tudo o que tens feito
      D2               A
 Por tudo o que vais fazer
