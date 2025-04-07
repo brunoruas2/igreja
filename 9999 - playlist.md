@@ -2,7 +2,7 @@
 
 [[Toma meu coração - Prisma Brasil]]
 
-[[Jesus, Filho de Deus - Fernandinho]]
+[[Son of God - Hillsong Australia]]
 
 Nada se Compara à Glória do Senhor
 

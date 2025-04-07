@@ -1,13 +1,10 @@
 ```chords
- Favoritar Cifra
-
 Tom: [C]
 
 [Intro] F9  Am7  G 
         Em7  Am7  G 
 
 [Primeira Parte]
-
      C                 C4          C
 As muitas gerações rendidas em louvor
     Am7         G            F9
@@ -20,7 +17,6 @@ E os que hão de crer
 Cantando ao cordeiro uma canção
 
 [Pré-Refrão]
-
      F9                Am7
 Teu nome é o mais alto
      G
@@ -35,7 +31,6 @@ Governos e poderes
 Teu nome é sobre todos
 
 [Refrão]
-
              F9     Am7  G
 E os anjos clamam: San__to
           Em7     Am7
@@ -46,7 +41,6 @@ Exaltado És, Santo
 Santo pra sempre
 
 [Segunda Parte]
-
   C                  F9       C
 Quem foi perdoado e redimido foi
  Am7         G            F9
@@ -59,7 +53,6 @@ Cante ao cordeiro uma canção
 Cantaremos para sempre, amém
 
 [Refrão]
-
              F9     Am7  G
 E os anjos clamam: San__to
           Em7     Am7
@@ -79,7 +72,6 @@ Tu sempre serás Santo
 Santo pra sempre
 
 [Pré-Refrão]
-
      F9                Am7
 Teu nome é o mais alto
      G
@@ -107,7 +99,6 @@ Governos e poderes
 Teu nome é sobre todos
 
 [Refrão Final]
-
              F9     Am7  G
 E os anjos clamam: San__to
           Em7     Am7
