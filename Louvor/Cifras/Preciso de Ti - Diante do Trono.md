@@ -110,10 +110,10 @@ Eu quero permanecer Contigo até o fim
 ( A/G  G  A/G )
 ( F7M  G/F  E4  E )
 
-[Refrão] 
+[Refrão] -> sem a quebrada, vai subindo
 
                  C#m  D              
-Distante de Ti, Se__nhor
+Distante de Ti, Se__nhor 
            A/C#  Bm7
 Não posso vi____ver
             A/E      E
@@ -135,7 +135,8 @@ Não vale a pena existir
 Escuta o meu clamor
                       A/C#  Bm7
 Mais que o ar que eu res___piro
-    Bm/A    G  D/F#  A9  E
+
+     Bm/A    G  D/F#  A9  E
 Preciso de Ti
 
             G  D9/F#
@@ -144,6 +145,6 @@ Preciso de Ti
 Preciso de Ti
             A9  D
 Preciso de Ti
-            F7M  G 
+           F7M  G 
 Preciso de Ti
 ```

@@ -2,7 +2,7 @@
   "showChordOverview": "never",
   "showChordDiagramsOnHover": "never",
   "showTransposeControl": true,
-  "showEnharmonicToggleControl": false,
+  "showEnharmonicToggleControl": true,
   "showInstrumentControl": true,
   "debug": false,
   "defaultInstrument": "guitar",

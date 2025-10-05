@@ -4,81 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "0855093e91aa15b1",
+        "id": "0df363a5ce529b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "71be7db85fd418af",
+            "id": "76e381db8abfecdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louvor/Cifras/Toma meu coração - Prisma Brasil.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Toma meu coração - Prisma Brasil"
-            }
-          },
-          {
-            "id": "fbb1ab7b9e2ac163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Louvor/Cifras/Nada se compara a glória do senhor - Ministério Koynonia.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nada se compara a glória do senhor - Ministério Koynonia"
-            }
-          },
-          {
-            "id": "a82ca1bf568395a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Louvor/Cifras/Santo pra Sempre - Gabriel Guedes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Santo pra Sempre - Gabriel Guedes"
-            }
-          },
-          {
-            "id": "87f5a4b75d1212bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Louvor/Cifras/Son of God - Hillsong Australia.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Son of God - Hillsong Australia"
-            }
-          },
-          {
-            "id": "f7047f646de1032a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Louvor/Hinos/107 - Ao pé da cruz.md",
+                "file": "Louvor/Cifras/Louvemos ao Senhor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "107 - Ao pé da cruz"
+              "title": "Louvemos ao Senhor"
+            }
+          },
+          {
+            "id": "4957f8b22084c20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Louvor/Cifras/Mil motivos - Raquel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mil motivos - Raquel"
+            }
+          },
+          {
+            "id": "e396f1c1233406ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Louvor/Cifras/Maranata - Avivah.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maranata - Avivah"
+            }
+          },
+          {
+            "id": "0d0f1af67380e78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Louvor/Cifras/Digno é o Senhor - Aline Barros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digno é o Senhor - Aline Barros"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +83,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -214,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,30 +210,39 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "f7047f646de1032a",
+  "active": "0d0f1af67380e78e",
   "lastOpenFiles": [
-    "Louvor/Cifras/Son of God - Hillsong Australia.md",
-    "Louvor/Cifras/Santo pra Sempre - Gabriel Guedes.md",
-    "Louvor/Cifras/Nada se compara a glória do senhor - Ministério Koynonia.md",
-    "Louvor/Cifras/Toma meu coração - Prisma Brasil.md",
-    "Louvor/Hinos/107 - Ao pé da cruz.md",
-    "9999 - playlist.md",
+    "Louvor/Cifras/Cordeiro que sofreu - hillsong.md",
+    "Louvor/Cifras/Preciso de Ti - Diante do Trono.md",
+    "Louvor/Cifras/Maranata - Avivah.md",
+    "Louvor/Cifras/Mil motivos - Raquel.md",
+    "Louvor/Cifras/Louvemos ao Senhor.md",
     "Louvor/Hinos/97 - Suplica do Redimido.md",
     "Louvor/Hinos/54 - A Chegada do Messias.md",
-    "Louvor/Cifras/Cancao do Apocalipse - Diante do Trono.md",
-    "Louvor/Cifras/Manancial - Aline Barros.md",
-    "Louvor/Cifras/Digno é o Senhor - Aline Barros.md",
-    "Louvor/Cifras/Preciso de Ti - Diante do Trono.md",
+    "Louvor/Hinos/266 - Rude Cruz.md",
+    "Louvor/Hinos/269 - Alvo mais que a neve.md",
+    "Louvor/Hinos/297 - A chamada Final.md",
+    "Louvor/Cifras/A Rua e o Mundo - Apalpha.md",
+    "Louvor/Cifras/Em minha casa - Saad e Fhop.md",
+    "Louvor/Cifras/Livre pra te adorar - David Quilan.md",
+    "Louvor/Cifras/Tudo é diferente - Aline Barros.md",
     "Louvor/Cifras/Tu es Santo - Ronaldo Bezerra.md",
-    "9999-99-99-Template do Mapa.md",
-    "Louvor/Cifras/Te agradeco - Diante do Trono.md",
-    "Anotacoes/2025-02-09-culto.md",
+    "Louvor/Cifras/Alto Preço - Asaph Borba.md",
+    "Louvor/Cifras/Cancao do Apocalipse - Diante do Trono.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Louvor/Cifras/Diante da cruz - Aline Barros.md",
+    "Louvor/Cifras/Pela fé - Adhemar de campos.md",
+    "Louvor/Cifras/há um caminho - 4 por 1.md",
+    "Louvor/Cifras/Ao Orarmos -.md",
+    "Untitled.md",
+    "Louvor/Hinos/107 - Ao pé da cruz.md",
+    "Louvor/Cifras/Tu és - Fhop.md",
+    "Louvor/Cifras/Bem Aventurado - Aline Barros.md",
+    "Louvor/Cifras/Tu és Santo - Ronaldo Bezerra.md",
     "Louvor",
     "Mapas",
-    "Louvor/Musicas/Canção do Apocalipse - Diante do Trono.md",
-    "Louvor/Musicas/Te agradeço - Diante do Trono.md",
     "Louvor/Hinos",
-    "Teste.md",
     "Louvor/Musicas"
   ]
 }
