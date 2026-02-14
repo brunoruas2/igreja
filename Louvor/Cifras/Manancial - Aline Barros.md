@@ -61,6 +61,7 @@ A4  A  G
 
 [Solo] Am  Em  G  D
        Am  Em  D
+-- nao vamos fazer isso hoje
 fast-> G  D/F#  Em  D
        Am  Em  G  D
        Am  Em  D/F#  A4

@@ -4,67 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "0df363a5ce529b8f",
+        "id": "5d4d61829676c78b",
         "type": "tabs",
         "children": [
           {
-            "id": "76e381db8abfecdf",
+            "id": "67406db0ae1dbfa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louvor/Cifras/Louvemos ao Senhor.md",
+                "file": "Louvor/Hinos/74 - sinceridade - versao ipalpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Louvemos ao Senhor"
+              "title": "74 - sinceridade - versao ipalpha"
             }
           },
           {
-            "id": "4957f8b22084c20f",
+            "id": "c7baa019c9ad5d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louvor/Cifras/Mil motivos - Raquel.md",
+                "file": "Louvor/Cifras/Alfa e Omega -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mil motivos - Raquel"
+              "title": "Alfa e Omega -"
             }
           },
           {
-            "id": "e396f1c1233406ea",
+            "id": "2fb46edf7a203eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louvor/Cifras/Maranata - Avivah.md",
+                "file": "Louvor/Cifras/Perto quero estar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maranata - Avivah"
+              "title": "Perto quero estar"
             }
           },
           {
-            "id": "0d0f1af67380e78e",
+            "id": "2ba7eb9fc1db79a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Louvor/Cifras/Digno é o Senhor - Aline Barros.md",
+                "file": "Louvor/Cifras/Teu nome é santo - Vineyard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digno é o Senhor - Aline Barros"
+              "title": "Teu nome é santo - Vineyard"
+            }
+          },
+          {
+            "id": "3312a5e4ad39b9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Louvor/Cifras/Seu sangue - Fernandinho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seu sangue - Fernandinho"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5110321044922
+    "width": 276.5110321044922
   },
   "right": {
     "id": "555d061edbeb1bf2",
@@ -210,36 +224,36 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "0d0f1af67380e78e",
+  "active": "3312a5e4ad39b9be",
   "lastOpenFiles": [
-    "Louvor/Cifras/Cordeiro que sofreu - hillsong.md",
-    "Louvor/Cifras/Preciso de Ti - Diante do Trono.md",
-    "Louvor/Cifras/Maranata - Avivah.md",
-    "Louvor/Cifras/Mil motivos - Raquel.md",
-    "Louvor/Cifras/Louvemos ao Senhor.md",
-    "Louvor/Hinos/97 - Suplica do Redimido.md",
-    "Louvor/Hinos/54 - A Chegada do Messias.md",
-    "Louvor/Hinos/266 - Rude Cruz.md",
-    "Louvor/Hinos/269 - Alvo mais que a neve.md",
-    "Louvor/Hinos/297 - A chamada Final.md",
-    "Louvor/Cifras/A Rua e o Mundo - Apalpha.md",
-    "Louvor/Cifras/Em minha casa - Saad e Fhop.md",
-    "Louvor/Cifras/Livre pra te adorar - David Quilan.md",
+    "Louvor/Cifras/Teu nome é santo - Vineyard.md",
+    "Louvor/Cifras/Seu sangue - Fernandinho.md",
+    "Louvor/Cifras/Perto quero estar.md",
+    "Louvor/Cifras/Alfa e Omega -.md",
+    "Louvor/Cifras/Teu nome é santo - Daniel Souza.md",
+    "Louvor/Cifras/Os reinos se abalam - Ministerio Cristo Vivo.md",
+    "Louvor/Hinos/74 - sinceridade - versao ipalpha.md",
+    "Louvor/Cifras/Rompendo em fé - Comunidade zona sul.md",
+    "Louvor/Cifras/Bem Aventurado - Aline Barros.md",
+    "Louvor/Cifras/Rendido Estou - Fernandinho.md",
+    "Louvor/Hinos/Mais perto da tua cruz.md",
+    "Louvor/Cifras/Me rendo a ti - Hillsong.md",
     "Louvor/Cifras/Tudo é diferente - Aline Barros.md",
-    "Louvor/Cifras/Tu es Santo - Ronaldo Bezerra.md",
-    "Louvor/Cifras/Alto Preço - Asaph Borba.md",
-    "Louvor/Cifras/Cancao do Apocalipse - Diante do Trono.md",
+    "Louvor/Cifras/Manancial - Aline Barros.md",
+    "Louvor/Hinos/97 - Suplica do Redimido.md",
+    "Louvor/Hinos/297 - A chamada Final.md",
+    "Louvor/Hinos/266 - Rude Cruz.md",
+    "Louvor/Hinos/107 - Ao pé da cruz.md",
+    "Louvor/Cifras/Cordeiro que sofreu - hillsong.md",
+    "Louvor/Cifras/A luz do Teu Rosto - Comunidade Maringa.md",
+    "Louvor/Hinos/Grandioso és Tu.md",
+    "Vim para adorar-te - Vineyard.md",
+    "Louvor/Hinos/54 - A Chegada do Messias.md",
+    "Louvor/Cifras/Vou te alegrar - Aline Barros.md",
+    "Louvor/Cifras/Digno é o Senhor - Aline Barros.md",
+    "Louvor/Cifras/Preciso de Ti - Diante do Trono.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Louvor/Cifras/Diante da cruz - Aline Barros.md",
-    "Louvor/Cifras/Pela fé - Adhemar de campos.md",
-    "Louvor/Cifras/há um caminho - 4 por 1.md",
-    "Louvor/Cifras/Ao Orarmos -.md",
-    "Untitled.md",
-    "Louvor/Hinos/107 - Ao pé da cruz.md",
-    "Louvor/Cifras/Tu és - Fhop.md",
-    "Louvor/Cifras/Bem Aventurado - Aline Barros.md",
-    "Louvor/Cifras/Tu és Santo - Ronaldo Bezerra.md",
     "Louvor",
     "Mapas",
     "Louvor/Hinos",

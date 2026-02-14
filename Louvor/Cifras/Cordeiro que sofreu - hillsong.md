@@ -15,7 +15,7 @@ Em silêncio suportou
  A9       E        B
 Açoite, escárnio e dor
 C#m7    A9     C#m7
-E em obediência ao Pai
+-E em obediência ao Pai
  A9        B     E
 Na cruz se entregou
 
